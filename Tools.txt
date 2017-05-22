@@ -1,0 +1,8 @@
+﻿Python 3.5
+•	NumPy – библиотека для научных вычислений;
+•	Pymorphy2 – морфологический анализатор для работы с русским языком;
+•	Scikit‑Learn – библиотека, в которой реализовано большинство алгоритмов машинного обучения.
+
+Korobov M.: Morphological Analyzer and Generator for Russian and
+Ukrainian Languages // Analysis of Images, Social Networks and Texts,
+pp 320-332 (2015).

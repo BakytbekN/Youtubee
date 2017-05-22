@@ -1,0 +1,7 @@
+#pip install beautifulsoup4
+#pip install selenium
+#https://github.com/mozilla/geckodriver/releases   Include in PATH
+#pip install pymorphy2
+#pip install NumPy 
+#pip install -U pymorphy2-dicts-ru
+#pip install scipy 
